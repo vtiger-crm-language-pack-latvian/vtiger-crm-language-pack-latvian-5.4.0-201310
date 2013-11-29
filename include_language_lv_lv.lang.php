@@ -12,7 +12,7 @@
  ************************************************************************************/
 
 $app_strings = array (
-      'LBL_BROWSER_TITLE' => 'Vtiger CRM 5 - Коммерческая Open Source CRM',
+      'LBL_BROWSER_TITLE' => 'Vtiger CRM 5 - Tirdzniecības Open Source CRM',
       'LBL_MY_ACCOUNT' => 'Мой Профиль',
       'LBL_MY_PREFERENCES' => 'Мои Настройки',
       'LBL_ADMIN' => 'Админ',
